@@ -1,4 +1,4 @@
-sMyList = '0123'
+sMyList = '01234'
 iList = [[int(item), -1] for item in sMyList]
 k = n = 1
 
